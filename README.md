@@ -1,4 +1,4 @@
-# PHASE3 Group Project:PREDICTION OF MOBI-TEL CUSTOMER CHURN
+# PHASE3 Project:PREDICTION OF MOBI-TEL CUSTOMER CHURN
 ### Business Overview
 Mobi-Tel, a telecommunications company, has compiled data on their customers and whether or not they have stopped doing business, or churned, with Mobi-Tel. In the competitive world of telecommunication carriers, customer retention is key. Over 95% of Americans already own a cell phone. Moreover, acquiring new customers can cost up to 25 times more than retaining existing customers. Telecommunication carriers like Mobi-Tel look to big data analytics around demographics, usage, customer accounts, connectivity, network performance and reliability, customer support and service issues, and more, to reduce customer churn rates. Predicting customer churn is critical for telecommunication companies to be able to retain customers effectively. For this reason, large telecommunications corporations are seeking to develop models to predict which customers are more likely to change and take action accordingly.
 ### Data Understanding
