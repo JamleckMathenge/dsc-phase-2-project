@@ -12,10 +12,15 @@ The Zip Code Population table contains complementary information on the estimate
 This was done to ensure the Validity, Accuracy, Completeness, Consistency and Uniformity of the Data.
 These are the steps followed in preparing the data:
 TASK1 :The first task was to check if the column names were uniform and readable.
+
 TASK2 :The second task was to check for duplcated rows.
+
 TASK3 :The next task was to check if there were missing values.
+
 TASK4 :The next task was to decide how to deal with the missing values. (Either drop if they are unnecesary or replace the missing values with the best fit.)
+
 TASK5 :The last task was to check if the columns had the correct data types.
+
 The data provided is correct and up to date.
 ### DATA ANALYSIS 
 In order to better comprehend the patterns in the data and even develop some hypotheses, let’s first begin by studying our dataset. In order to find any significant trends, we will first examine the distribution of the various variables.
@@ -24,7 +29,9 @@ Analysis of categorical variables:
 We created a function that uses the dataset's categorical features and creates bar charts from the features.
 Analysis of numeric variables:
 We created a function that uses the dataset's numeric features and creates distplots from the features.
+
 From the univariate analysis we were able to come up with the following inferences:
+
 About half the customers in our data set are male while the rest are female.
 About 50% of our customers have a partner.
 About 50% of our customers have a partner, but only 30% of our customers have dependents
@@ -35,7 +42,9 @@ Most of our customers are in the Month to month contract. While there are an equ
 
 #### Bivariate analysis.
 We plotted histograms showing the relationship between various features in our dataset and the target feature.
+
 From the observations made from our charts, we came up with the following inferences:
+
 The figure above shows the relationship between Age and customer behavior. The customer behavior clearly shows that Age has little to no effect on customer behavior but on further analysis, if a customer is considered a senior citizen they are less likely to churn.
 The gender of a customer has no observed effect on the choice of churning where both genders are equally likely to churn.
 The marital status of a customer has little to no effect on customer behavior.
