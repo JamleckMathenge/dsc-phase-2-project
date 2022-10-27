@@ -57,16 +57,19 @@ The first step in building the model is to split the data into training and test
 The training data is used by the machine learning algorithm to build a model while the test set is used to evaluate the model performance on unseen data.
 It is important to evaluate a model’s performance to guarantee that our metrics of success are met.
 We employ a test size of 0.25 and a random state of 1 to ensure consistency.
-Feature Engineering.
+#### Feature Engineering.
 It is the process of extracting features from the data and transforming them into a format that is suitable for the machine learning model.
 Most machine learning algorithms require numeric values, therefore, all the categorical features should be encoded into numeric labels before training the model. In addition, we need to transform numeric values in the dataset into a common scale which will prevent the big values in  the dataset from dominating the learning process.
-Training data and Test data pre-processing.
+#### Training data and Test data pre-processing.
 One hot encoding - This creates a new binary column for each level of the categorical variable. The new column contains 0s and 1s indicating the presence or absence of the category in the data.
+
 Normalization - It is a common practice in machine learning which consists of translating data into a range of (0,1). If the features are scaled differently some may take up more weight than others. Hence, the scale levels the playing field.
+
 Class imbalance - Our target feature has a class imbalance hence we use SMOTE to create a synthetic sample class. This is to ensure that the class imbalance does not affect our model performance.
+
 Label encoding - It is used to replace categorical values with numeric values. This encoding replaces every category with a numeric variable.
 
-Modeling Techniques.
+#### Modeling Techniques.
 They are based on the use of algorithms which are a sequence of instructions for solving specific problems.
 In the pursuit of the best model, we created a function that takes in model technique parameters and gives an output of the modeling.
 We also created a function that finds the best parameters for the modeling techniques.
