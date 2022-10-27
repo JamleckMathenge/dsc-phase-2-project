@@ -82,6 +82,9 @@ Label encoding - It is used to replace categorical values with numeric values. T
 They are based on the use of algorithms which are a sequence of instructions for solving specific problems.
 In the pursuit of the best model, we created a function that takes in model technique parameters and gives an output of the modeling.
 We also created a function that finds the best parameters for the modeling techniques.
+CONCLUSION
+This project entails a business overview, business understanding, data understanding, exploratory data analysis, modeling, and recommendation in order to advise Telecom on the best procedures. The project follows the CRISP-DM methodology showing the various project stages in the proper format. This project is integral to Telecom as it will provide the best model which will be able to predict customers likely to churn and therefore, equip the company with data on customers likely to churn in order for the company to take appropriate action.
+In conclusion, when customers leave, they are going to the competition. Understanding churn factors will not only allow Telecom to understand why their customers are leaving but also to what extent the factors that lead to customer dissatisfaction affect the company. Overall, this will lead to the opportunity for Telecom to sharpen its attractiveness in the eyes of its customers by competing in the market well.
 
 
 
