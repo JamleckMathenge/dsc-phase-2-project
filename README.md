@@ -1,6 +1,6 @@
 # PHASE3 Project : PREDICTION OF MOBI-TEL CUSTOMER CHURN
 ### Business Overview
-Mobi-Tel, a telecommunications company, has compiled data on their customers and whether or not they have stopped doing business, or churned, with Mobi-Tel. In the competitive world of telecommunication carriers, customer retention is key. Over 95% of Americans already own a cell phone. Moreover, acquiring new customers can cost up to 25 times more than retaining existing customers. Telecommunication carriers like Mobi-Tel look to big data analytics around demographics, usage, customer accounts, connectivity, network performance and reliability, customer support and service issues, and more, to reduce customer churn rates. Predicting customer churn is critical for telecommunication companies to be able to retain customers effectively. For this reason, large telecommunications corporations are seeking to develop models to predict which customers are more likely to change and take action accordingly.
+Telecom, a telecommunications company, has compiled data on their customers and whether or not they have stopped doing business, or churned, with Telecom. In the competitive world of telecommunication carriers, customer retention is key. Over 95% of Americans already own a cell phone. Moreover, acquiring new customers can cost up to 25 times more than retaining existing customers. Telecommunication carriers look to big data analytics around demographics, usage, customer accounts, connectivity, network performance and reliability, customer support and service issues, and more, to reduce customer churn rates. Predicting customer churn is critical for telecommunication companies to be able to retain customers effectively. For this reason, large telecommunications corporations are seeking to develop models to predict which customers are more likely to change and take action accordingly.
 ### Data Understanding
 The dataset provided information on the following features for each customer:
 Exploring Data
@@ -86,18 +86,10 @@ CONCLUSION
 This project entails a business overview, business understanding, data understanding, exploratory data analysis, modeling, and recommendation in order to advise Telecom on the best procedures. The project follows the CRISP-DM methodology showing the various project stages in the proper format. This project is integral to Telecom as it will provide the best model which will be able to predict customers likely to churn and therefore, equip the company with data on customers likely to churn in order for the company to take appropriate action.
 In conclusion, when customers leave, they are going to the competition. Understanding churn factors will not only allow Telecom to understand why their customers are leaving but also to what extent the factors that lead to customer dissatisfaction affect the company. Overall, this will lead to the opportunity for Telecom to sharpen its attractiveness in the eyes of its customers by competing in the market well.
 
-
-
-
-
-
-
- 
- 
-CONCLUSION
-
- 
-RECOMMENDATIONS
+### CONCLUSION
+This project entails a business overview, business understanding, data understanding, exploratory data analysis, modeling, and recommendation in order to advise Telecom on the best procedures. The project follows the CRISP-DM methodology showing the various project stages in the proper format. This project is integral to Telecom as it will provide the best model which will be able to predict customers likely to churn and therefore, equip the company with data on customers likely to churn in order for the company to take appropriate action.
+In conclusion, when customers leave, they are going to the competition. Understanding churn factors will not only allow Telecom to understand why their customers are leaving but also to what extent the factors that lead to customer dissatisfaction affect the company. Overall, this will lead to the opportunity for Telecom to sharpen its attractiveness in the eyes of its customers by competing in the market well.
+### RECOMMENDATIONS
 
  
  
