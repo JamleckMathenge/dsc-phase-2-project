@@ -90,6 +90,15 @@ In conclusion, when customers leave, they are going to the competition. Understa
 This project entails a business overview, business understanding, data understanding, exploratory data analysis, modeling, and recommendation in order to advise Telecom on the best procedures. The project follows the CRISP-DM methodology showing the various project stages in the proper format. This project is integral to Telecom as it will provide the best model which will be able to predict customers likely to churn and therefore, equip the company with data on customers likely to churn in order for the company to take appropriate action.
 In conclusion, when customers leave, they are going to the competition. Understanding churn factors will not only allow Telecom to understand why their customers are leaving but also to what extent the factors that lead to customer dissatisfaction affect the company. Overall, this will lead to the opportunity for Telecom to sharpen its attractiveness in the eyes of its customers by competing in the market well.
 ### RECOMMENDATIONS
+Telecom should recruit more customers to their offer packages because there is a clear indication that it reduces customer churning.
+
+Telecom should improve its relationship with new customers because we found out that the highest churning rates occur in the first 10 months.
+
+Telecom should make premium tech support more attractive to customers because customers on the cover have low churn rates.
+
+Telecom should make changes to their internet provision services as they all have high churn rates, especially fiber optic internet.
+
+Telecom should create products that are attractive to non-senior citizens because non-senior citizens have the highest churn rate.
 
  
  
